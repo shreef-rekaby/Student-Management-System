@@ -63,6 +63,7 @@ Department: CS
 Grade: 95.5
 Address: 123 Main St, Cairo, 11511
 -----------------------------------
+```
 
 ## 👤 Author
 **Shreef Rekaby**  
